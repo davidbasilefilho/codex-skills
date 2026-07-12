@@ -17,11 +17,12 @@ Use only configured `explorer` and `forge` agents.
 
 ## Workflow
 
-1. Read applicable `AGENTS.md` and repo instructions.
-2. Spawn `explorer` only when focused investigation helps. Verify returned evidence.
-3. Confirm approved plan before spawning `forge`. Give exact scope, constraints, and checks.
-4. Wait for each required result. `forge` owns implementation; parent owns synthesis and final verification.
-5. Inspect patch. Run narrow checks. Fix only caused failures.
-6. Never commit, push, open PRs, or deploy unless requested.
+1. Read plans in `.agents/plans/`. If none exist, stop. If one exists, use it. If multiple exist, ask user which plan to use and stop.
+2. Read selected approved plan, applicable `AGENTS.md`, and repo instructions.
+3. Spawn `explorer` only when focused investigation helps. Verify returned evidence.
+4. Give `forge` selected plan, exact scope, constraints, and checks.
+5. Wait for each required result. `forge` owns implementation; parent owns synthesis and final verification.
+6. Inspect patch. Run narrow checks. Fix only caused failures.
+7. Never commit, push, open PRs, or deploy unless requested.
 
 Stop after implementation and targeted checks. Report agent scopes, changes, validation, unresolved risks. Skip optional work.
