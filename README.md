@@ -5,6 +5,7 @@ A curated collection of reusable agent skills for planning, implementation, debu
 ## Included skills
 
 - `controlled-parallel-work`
+- `define-goal`
 - `execute-approved-plan`
 - `plan-and-stop`
 - `context7`
@@ -40,6 +41,7 @@ Original material in this repository is licensed under the [Apache License 2.0](
 
 Some skills are redistributed from third-party projects under their original licenses:
 
+- `define-goal` comes from [openai/skills](https://github.com/openai/skills) under the Apache License 2.0.
 - `context7` comes from [intellectronica/agent-skills](https://github.com/intellectronica/agent-skills) under CC0 1.0 Universal.
 - `improve-codebase-architecture`, `tdd`, `handoff`, `diagnose`, and `teach` come from [mattpocock/skills](https://github.com/mattpocock/skills) under the MIT License. `diagnose` is retained from the upstream repository's history because the requested skills.sh entry points to that historical skill.
 
