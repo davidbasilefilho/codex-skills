@@ -1,0 +1,4 @@
+interface:
+  display_name: "Compress"
+  short_description: "Rewrite content with less token waste"
+  default_prompt: "Use $compress to rewrite this content concisely while preserving meaning and constraints."

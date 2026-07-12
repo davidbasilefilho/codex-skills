@@ -43,3 +43,14 @@ The upstream repository does not currently include a standalone license file; it
 - License: MIT
 - Copyright: Copyright (c) 2026 Julius Brussee
 - License text: [`LICENSES/JULIUSBRUSSEE-CAVEMAN-MIT.txt`](LICENSES/JULIUSBRUSSEE-CAVEMAN-MIT.txt)
+
+## leonxlnx/taste-skill
+
+- Source: https://github.com/leonxlnx/taste-skill
+- Included adaptations: `brandkit`, `gpt-taste`, `high-end-visual-design`, `industrial-brutalist-ui`, and `redesign-existing-projects`
+- Source commit: `b17742737e796305d829b3ad39eda3add0d79060`
+- License: MIT
+- Copyright: Copyright (c) 2026 Leonxlnx
+- License text: [`LICENSES/LEONXLNX-TASTE-SKILL-MIT.txt`](LICENSES/LEONXLNX-TASTE-SKILL-MIT.txt)
+
+These skills were rewritten for lower token usage while retaining their core workflows and design constraints. Upstream folders at the recorded commit are `brandkit`, `gpt-tasteskill`, `soft-skill`, `brutalist-skill`, and `redesign-skill`.

@@ -4,16 +4,22 @@ A curated collection of reusable agent skills for planning, implementation, debu
 
 ## Included skills
 
+- `brandkit`
 - `caveman`
+- `compress`
 - `context7`
 - `controlled-parallel-work`
 - `define-goal`
 - `diagnosing-bugs`
 - `execute-approved-plan`
 - `find-skills`
+- `gpt-taste`
 - `handoff`
+- `high-end-visual-design`
 - `improve-codebase-architecture`
+- `industrial-brutalist-ui`
 - `plan-and-stop`
+- `redesign-existing-projects`
 - `teach`
 - `tdd`
 
@@ -48,5 +54,6 @@ Some skills are redistributed from third-party projects under their original lic
 - `improve-codebase-architecture`, `tdd`, `handoff`, `diagnosing-bugs`, and `teach` come from [mattpocock/skills](https://github.com/mattpocock/skills) under the MIT License.
 - `find-skills` comes from [vercel-labs/skills](https://github.com/vercel-labs/skills), whose package metadata declares the MIT License.
 - `caveman` comes from [juliusbrussee/caveman](https://github.com/juliusbrussee/caveman) under the MIT License.
+- `brandkit`, `gpt-taste`, `high-end-visual-design`, `industrial-brutalist-ui`, and `redesign-existing-projects` are compressed adaptations from [leonxlnx/taste-skill](https://github.com/leonxlnx/taste-skill) under the MIT License.
 
 See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) and the license texts in [`LICENSES`](LICENSES).
