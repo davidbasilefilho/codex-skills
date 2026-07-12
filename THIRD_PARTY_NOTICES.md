@@ -20,9 +20,26 @@ This repository contains material from the following projects. The Apache-2.0 li
 ## mattpocock/skills
 
 - Source: https://github.com/mattpocock/skills
-- Included skills: `improve-codebase-architecture`, `tdd`, `handoff`, `diagnose`, and `teach`
+- Included skills: `improve-codebase-architecture`, `tdd`, `handoff`, `diagnosing-bugs`, and `teach`
 - License: MIT
 - Copyright: Copyright (c) 2026 Matt Pocock
 - License text: [`LICENSES/MIT.txt`](LICENSES/MIT.txt)
 
-The `diagnose` skill was retrieved from upstream commit `7afa86d3a5dd96edde06ffa014e16c64e733681e`; the current upstream tree has since replaced or renamed it.
+## vercel-labs/skills
+
+- Source: https://github.com/vercel-labs/skills
+- Included skill: `find-skills`
+- Source commit: `3176ae424e50bb7d3f20a7e085f31912b3f325d2`
+- License: MIT, as declared by the repository's `package.json`
+- License text: [`LICENSES/VERCEL-LABS-SKILLS-MIT.txt`](LICENSES/VERCEL-LABS-SKILLS-MIT.txt)
+
+The upstream repository does not currently include a standalone license file; its package metadata declares `"license": "MIT"`.
+
+## juliusbrussee/caveman
+
+- Source: https://github.com/juliusbrussee/caveman
+- Included skill: `caveman`
+- Source commit: `0d95a81d35a9f2d123a5e9430d1cfc43d55f1bb0`
+- License: MIT
+- Copyright: Copyright (c) 2026 Julius Brussee
+- License text: [`LICENSES/JULIUSBRUSSEE-CAVEMAN-MIT.txt`](LICENSES/JULIUSBRUSSEE-CAVEMAN-MIT.txt)
