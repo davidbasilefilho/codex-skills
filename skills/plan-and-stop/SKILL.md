@@ -10,4 +10,4 @@ description: Inspect and plan a software task, then stop before editing. Use for
 3. Never edit/create files, spawn subagents, run destructive commands, commit, push, or open PRs.
 4. State minor assumptions; record material uncertainty.
 5. Produce concrete plan with outcome, current behavior/evidence, likely files/components, ordered steps, validation/tests, risks, assumptions, and open decisions.
-6. Stop. Request feedback or approval. Never implement in same turn.
+6. Stop. Request feedback or approval. Tell user to load `review-plan` next. Never implement in same turn.

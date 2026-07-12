@@ -8,4 +8,4 @@
 | [`LEONXLNX-TASTE-SKILL-MIT.txt`](LEONXLNX-TASTE-SKILL-MIT.txt) | `leonxlnx/taste-skill` | `brandkit`, `gpt-taste`, `high-end-visual-design`, `industrial-brutalist-ui`, `redesign-existing-projects` |
 | [`VERCEL-LABS-SKILLS-MIT.txt`](VERCEL-LABS-SKILLS-MIT.txt) | `vercel-labs/skills` | `find-skills` |
 
-The `define-goal` skill from `openai/skills` retains its Apache-2.0 text at [`define-goal/LICENSE.txt`](../define-goal/LICENSE.txt). Original collection material is covered by the repository-level [`LICENSE`](../LICENSE).
+The `define-goal` skill from `openai/skills` retains its Apache-2.0 text at [`skills/define-goal/LICENSE.txt`](../skills/define-goal/LICENSE.txt). Original collection material is covered by the repository-level [`LICENSE`](../LICENSE).

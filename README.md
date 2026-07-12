@@ -2,6 +2,8 @@
 
 A curated collection of reusable agent skills for planning, implementation, debugging, testing, architecture, documentation lookup, teaching, and handoffs.
 
+All skill packages live under [`skills/`](skills/).
+
 ## Included skills
 
 - `brandkit`
@@ -20,6 +22,7 @@ A curated collection of reusable agent skills for planning, implementation, debu
 - `industrial-brutalist-ui`
 - `plan-and-stop`
 - `redesign-existing-projects`
+- `review-plan`
 - `teach`
 - `tdd`
 

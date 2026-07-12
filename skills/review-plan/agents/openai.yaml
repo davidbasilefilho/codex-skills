@@ -1,0 +1,4 @@
+interface:
+  display_name: "Review Plan"
+  short_description: "Find and fix plan failures, then stop"
+  default_prompt: "Use $review-plan to review this implementation plan, fix its concrete failures, and stop."
