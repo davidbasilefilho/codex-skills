@@ -5,6 +5,8 @@ description: Inspect and plan a software task, then stop before editing. Use for
 
 # Plan and Stop
 
+Load `caveman` and use it to write the plan minimally.
+
 1. Read applicable `AGENTS.md` and repo instructions.
 2. Inspect only code, config, docs, and tests needed for task understanding.
 3. Do not edit implementation files, spawn subagents, run destructive commands, commit, push, or open PRs.

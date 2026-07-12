@@ -6,6 +6,7 @@ description: Review an implementation plan against repository evidence, fix conc
 # Review Plan
 
 Review plan only. Never implement.
+Load `caveman` and use it to review and rewrite the plan minimally.
 
 1. Read applicable `AGENTS.md` and plans in `.agents/plans/`.
 2. If user names a plan, use it. If exactly one exists, use it. If none exist, stop. If multiple exist and none is named, ask user which plan to review and stop.
