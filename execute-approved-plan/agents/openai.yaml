@@ -1,0 +1,7 @@
+interface:
+  display_name: "Execute Approved Plan"
+  short_description: "Implement the approved scope, validate it, and stop."
+  default_prompt: "Implement the approved plan with focused changes and targeted validation. Stop when complete."
+
+policy:
+  allow_implicit_invocation: false

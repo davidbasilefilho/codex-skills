@@ -1,0 +1,7 @@
+interface:
+  display_name: "Plan and Stop"
+  short_description: "Inspect a task, write a concrete plan, and pause before editing."
+  default_prompt: "Inspect this task, produce an implementation plan, and stop before making changes."
+
+policy:
+  allow_implicit_invocation: false

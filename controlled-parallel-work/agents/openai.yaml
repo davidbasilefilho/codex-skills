@@ -1,0 +1,7 @@
+interface:
+  display_name: "Controlled Parallel Work"
+  short_description: "Use no more than two focused, non-nesting subagents."
+  default_prompt: "Use tightly controlled parallel investigation or review, then implement and validate centrally."
+
+policy:
+  allow_implicit_invocation: false
